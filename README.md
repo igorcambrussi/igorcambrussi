@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorcambrussi
 - 👀 I’m interested in JavaScript, Web Development, Cybersecurity and Ethical Hacking.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I have some experience with C coding, with emphasis on numerical calculus and physics simulations.
 - 📫 How to reach me: 
 
