@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igorcambrussi
 - 👀 I’m a physics undergraduate student.  
-- 💞️ I code in C and in Python, with focus on statistics/data science, numerical calculus and simulations using Monte Carlo methods in statistical physics.
+- 💞️ I code in C and in Python, with emphasis on statistics/data science, numerical calculus and simulations using Monte Carlo methods in statistical physics.
 - 📫 How to reach me: igorcambrussi@gmail.com
 
 <!---
