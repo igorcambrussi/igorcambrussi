@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @igorcambrussi
-- 👀 I’m interested in JavaScript, Web Development, Cybersecurity and Ethical Hacking.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I have some experience with C coding, with emphasis on numerical calculus and physics simulations.
-- 📫 How to reach me: 
+- 👀 I’m a physics undergraduate student.  
+- 💞️ I code in C and in Python, with focus on statistics/data science, numerical calculus and simulations using Monte Carlo methods in statistical physics.
+- 📫 How to reach me: igorcambrussi@gmail.com
 
 <!---
 igorcambrussi/igorcambrussi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
